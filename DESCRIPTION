@@ -20,7 +20,7 @@ Imports:
 Remotes:
         trinker/lexicon,
         trinker/qdap,
-        GitTFJ/addeR
+        augustt/addeR
 RoxygenNote: 7.1.1
 Depends: 
     R (>= 3.10)
